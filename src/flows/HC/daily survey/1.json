@@ -1,0 +1,18 @@
+{
+    "header_text": "Daily Survey",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Did you take/use your hormonal contraception today, per your regular schedule?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Yes",
+                "1::No",
+                "2::I don't know"
+            ]
+        }
+    ]
+}

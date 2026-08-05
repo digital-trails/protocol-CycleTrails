@@ -1,0 +1,18 @@
+{
+    "header_text": "Daily Survey",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Where are you at in your menstrual cycle?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::I am currently not on my period (menstrual bleeding)",
+                "1::I am currently on my period (menstrual bleeding)",
+                "2::I am currently spotting (light menstrual bleeding, that is outside of my normal period)"
+            ]
+        }
+    ]
+}
