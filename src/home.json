@@ -3,17 +3,12 @@
     "elements": [
         {
             "type": "alert",
-            "title": "MindTrails",
-            "message": "Understand Your Thinking. Feel Less Anxious.",
-            "icon": "/assets/home_banner.png"
+            "title": "Cycle",
+            "message": "Know your cycle, Find your rhythm.",
+            "icon": "/assets/cycle.png"
         },
         {
-            "type": "button",
-            "hideoncomplete": true,
-            "action": {
-                "text": "Surveys",
-                "action": "navmodal://Survey"
-            }
+            "type": "survey"
         },
         {
             "type": "tiles",
@@ -33,7 +28,7 @@
                     }
                 },
                 {
-                    "text": "What is Anxiety?",
+                    "text": "Why Cycle?",
                     "action": "flow://flows/what is anxiety.json",
                     "backgroundcolor": "#1A5C2FDA",
                     "icon": {
