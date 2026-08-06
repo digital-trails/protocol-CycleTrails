@@ -5,7 +5,7 @@
             "type": "alert",
             "title": "Cycle",
             "message": "Know your cycle, Find your rhythm.",
-            "icon": "/assets/cycle.png"
+            "icon": {"url": "/assets/cycle.png", "ApplyTint": false }
         },
         {
             "type": "survey"
