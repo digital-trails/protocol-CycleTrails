@@ -10,7 +10,7 @@
         {
             "type": "sessions",
             "left": { "text": "{0} Sessions Completed", "icon": { "url": "/assets/completed.png", "tint": false } },
-            "right": { "text": "Add Workout Session", "icon": { "url": "/assets/unlocked.png", "tint": false }, "action": "flow://flows/${global:population}/treatment/sessions" },
+            "right": { "text": "Log an Activity Session", "icon": { "url": "/assets/unlocked.png", "tint": false }, "action": "flow://flows/${global:population}/treatment/sessions" },
             "lock_right": { "text": "Treatment Is Over", "icon": { "url": "/assets/locked.png", "tint": false } },
             "lock_time": "42:00:00:00"
         },
